@@ -1,0 +1,6 @@
+{
+  "name": "ComplyCheck AICTE — AI Document & Regulatory Compliance Engine",
+  "description": "AICTE SIH26261 validation system: automated document authentication, cross-document discrepancy detection, AICTE handbook norm verification, tamper analysis, and compliance audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
